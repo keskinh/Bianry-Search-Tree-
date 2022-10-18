@@ -1,4 +1,4 @@
-# Bianry-Search-Tree-
+# Binary-Search-Tree-
 [Patika.dev](https://www.patika.dev/tr)
 
 Bianry Search Tree 
